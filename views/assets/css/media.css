@@ -1,0 +1,123 @@
+/* X-Large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+}
+/*XX-Large devices (larger desktops, 1400px and up)*/ 
+@media only screen and (min-width: 1200px) and (max-width: 1700px) {
+   
+}
+
+@media (max-width: 1199px) {
+    
+}
+
+@media (max-width: 991px) {
+    
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
+@media (max-width: 767px){
+
+
+   header .navbar-nav li {
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: capitalize;
+  display: block;
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ededed;
+  color: #222;
+  transition: all 0.3s ease-out 0s;
+}
+
+.footer-navigation .title {
+ margin-top: 20px;
+}
+
+.page-title-area {
+  height: 300px;
+
+}
+.appie-testimonial-slider-2-item .thumb {
+  margin-bottom: 30px;
+  margin-right: 0;
+}
+.appie-testimonial-2-box {
+  padding: 50px 30px;
+}
+.appie-testimonial-slider-2-item .content {
+  text-align: center;
+}
+.appie-testimonial-slider-2-item .item {
+  display: block;
+  padding-left: 0;
+  padding-right: 0;
+}
+.video-player-area {
+  padding: 40px 0;
+}
+.appie-video-player-item .thumb .video-popup a {
+  height: 45px;
+  width: 45px;
+  background: #fff;
+  text-align: center;
+  line-height: 45px;
+  color: #ff3e66;
+  border-radius: 50%;
+  font-size: 20px;
+  position: relative;
+}
+
+.appie-video-player-item img {
+  border-radius: 5px;
+}
+
+.Section_title h1 {
+  font-weight: bold;
+  color: #000;
+  line-height: 135%;
+  font-size: 18px;
+}
+.appie-sticky {
+  position: relative;
+  left: 0;
+  top: 0;
+  right: 0;
+  z-index: 1010;
+  background: #fff;
+  -webkit-animation: sticky 1.2s;
+  animation: sticky 1.2s;
+}
+.media_none{display: none;}
+.Section_title{text-align: center;}
+.Section_title h6 {
+  color: #000;
+  margin-bottom: 5px;
+}
+.Section_title p {
+  color: #92959E;
+  margin-top: 5px;
+}
+.Section_title .btn {
+  margin-top: 5px;
+  background: transparent;
+  color: #1f58c7;
+  border: none;
+  margin: 0 auto;
+}
+.carousel-indicators{margin-bottom: 5px;}
+}
+@media (max-width: 400px){
+    
+}
+@media only screen and (min-width: 415px) and (max-width: 767px) {
+   
